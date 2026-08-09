@@ -56,11 +56,11 @@ Heatmap for correlation analysis
 ### 📊 Key Insights
 ## Gender:
 
-## Males: 577 (64.8%)
+Males: 577 (64.8%)
 
-## Females: 314 (35.2%)
+Females: 314 (35.2%)
 
-## Survival: 233 females vs 109 males
+Survival: 233 females vs 109 males
 
 ## Class:
 
